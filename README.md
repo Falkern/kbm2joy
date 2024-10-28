@@ -1,4 +1,4 @@
-# KBM2JOY
+# Kbm2Joy
 
 This project provides a simple GUI application to convert mouse movements into joystick inputs using a virtual Xbox 360 gamepad. It is built using Python and leverages the `pyautogui` and `vgamepad` libraries for mouse and gamepad interactions, respectively.
 
